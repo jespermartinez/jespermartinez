@@ -66,10 +66,10 @@ I build modern, scalable, and user-friendly web applications, from responsive fr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=jespermartinez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+<!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=jespermartinez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" /> -->
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=jespermartinez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jespermartinez&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+<!-- <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jespermartinez&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" /> -->
 
 </div>
 
