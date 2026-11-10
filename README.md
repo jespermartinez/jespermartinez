@@ -21,7 +21,8 @@ I build modern, scalable, and user-friendly web applications, from responsive fr
 - 🎨 Focused on responsive interfaces, reusable components, and great user experiences.
 - ⚙️ Experienced in backend development, database design, authentication, and application architecture.
 - ☁️ Familiar with cloud deployment, Docker, CI/CD, and AWS services.
-- 🛠️ Founder and developer of **[Baligyo](https://www.baligyo.com/)**, a multi-tenant POS and Inventory management System for retail businesses.
+- 🛠️ Founder and developer of **[Baligyo](https://www.baligyo.com/)**, a multi-tenant POS and Inventory Management System for retail businesses.
+- 🛠️ Founder and developer of **[K&K Trend Wear](https://www.kktrendwear.com/)**, a dropshipping and e-commerce online clothing store.
 
 ## 🧰 Tech Arsenal
 
@@ -32,12 +33,12 @@ I build modern, scalable, and user-friendly web applications, from responsive fr
 
 ### Backend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=php,symfony,laravel,nodejs" />
 </p>
 
 ### Database & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mariadb,supabase" />
 </p>
 
 ### Cloud, DevOps & Tools
@@ -45,34 +46,21 @@ I build modern, scalable, and user-friendly web applications, from responsive fr
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,cloudflare,figma,vscode" />
 </p>
 
-### CMS & Other Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=wordpress" />
+  <img src="https://img.shields.io/badge/WHM-FF6C2C?style=for-the-badge&logo=whm&logoColor=white" />
+  <img src="https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white" />
 </p>
 
-- **Frameworks & Libraries:** Next.js App Router, Laravel, shadcn/ui, Zod, Lucide
+### CMS/LMS & Other Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,moodle" />
+</p>
+
+- **Frameworks & Libraries:** Next.js App Router, Laravel, Symfony, shadcn/ui, Zod, Lucide
 - **Authentication:** Laravel Sanctum, JWT
-- **Cloud Services:** AWS EC2, RDS, S3, Elastic Beanstalk, Amplify
+- **Cloud Services:** AWS EC2, RDS, S3, Elastic Beanstalk, Amplify, WHM, cPanel, Cloudflare
 - **Development Practices:** REST API development, MVC, RBAC, multi-tenant architecture, CI/CD
 - **AI-Assisted Development:** Cursor, Claude Code, ChatGPT
-
-## 🚀 Featured Project
-
-### [Baligyo](https://www.baligyo.com/)
-
-A multi-tenant SaaS POS and inventory management platform designed for Philippine retail businesses.
-
-**Technology Stack:** Next.js, TypeScript, Tailwind CSS, Laravel, PHP, PostgreSQL, AWS
-
-**Key Features:**
-- Point of Sale (POS) and sales management
-- Product and inventory management
-- Multi-store and tenant management
-- Role-based access control
-- Cash and credit sales tracking
-- Sales reports and business dashboard
-
-🌐 **Website:** [www.baligyo.com](https://www.baligyo.com/)
 
 ## 📊 GitHub Metrics
 
@@ -107,7 +95,7 @@ I'm always open to connecting with developers, collaborating on interesting proj
 
 - 🌐 Portfolio: [jespermartinez.com](https://www.jespermartinez.com)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/jesper-martinez-666262199/)
-- 📧 Email: [YOUR_EMAIL@example.com](mailto:jesperkzmartinez123@gmail.com)
+- 📧 Email: [jesperkzmartinez123@gmail.com](mailto:jesperkzmartinez123@gmail.com)
 
 <div align="center">
 
